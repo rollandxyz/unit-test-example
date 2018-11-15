@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Observable, from } from 'rxjs';
+import { Observable, of, from } from 'rxjs';
 
 import { WorkItem } from '../models/work-item';
 
